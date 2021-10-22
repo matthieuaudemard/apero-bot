@@ -8,4 +8,4 @@ tenor
 ## usage
 
 * `!apero` indique si c'est l'heure de l'apéro
-* `gouter` indique si c'est l'heure du goûter
+* `!gouter` indique si c'est l'heure du goûter
